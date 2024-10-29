@@ -4,7 +4,7 @@ IT support skills.</p>
 
 <h2> IT and Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://linkedin.com/in/jasonfrink)
+- [Active Directory Home Lab](https:)
 
 - <b>Python</b>
  
