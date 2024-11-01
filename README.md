@@ -10,8 +10,8 @@ IT support skills.</p>
 
 <h2>IT and Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/jasonfrink/ActiveDirectoryLab/edit/main/README.md)
-
+- [Active Directory Home Lab](https://github.com/jasonfrink/ActiveDirectoryLab)
+ 
 - <b>Python</b>
  
 <h2> 🤳 Connect with me:</h2>
