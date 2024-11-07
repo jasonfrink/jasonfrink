@@ -11,7 +11,9 @@ IT support skills.</p>
 <h2>IT and Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/jasonfrink/ActiveDirectoryLab)
- 
+
+- [Azure SOC Home Lab](https://github.com/jasonfrink/Azure-SOC/tree/main)
+  
 - <b>Python</b>
  
 <h2> 🤳 Connect with me:</h2>
