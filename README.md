@@ -1,7 +1,3 @@
-<h1>Hello, It's Jason!</h1> <p>I'm an entry-level IT professional transitioning from software sales. Experience supporting SaaS platforms and
-troubleshooting software issues. Seeking an IT Help Desk role to leverage customer service, problem-solving, and
-IT support skills.</p>
-
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/d1779d20-7ab6-4d7a-848a-3d3b3ad5f783/public_url)
