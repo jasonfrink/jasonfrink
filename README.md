@@ -10,7 +10,7 @@
 
 - [Azure SOC Home Lab](https://github.com/jasonfrink/Azure-SOC/tree/main)
   
-- <b>Python</b>
+- [SOC Analyst Home Lab (ELK Stack)](https://github.com/jasonfrink/SOC-Analyst-Home-Lab)
  
 <h2> 🤳 Connect with me:</h2>
 
